@@ -1,3 +1,3 @@
 # hello-world
 pHp1
-Я новичок
+Я новичок php
